@@ -1,0 +1,12 @@
+{
+    "name": "Ball-Roll",
+    "description": "A simple unity game that shows how unity handles curved objects with rigid body",
+    "version": "1.0",
+    "main_file": "none",
+    "author": "Lewis Evans",
+    "license": "GNU General Public License v3.0",
+    "url": "https://www.github.com/awesomelewis2007/Ball-Roll",
+    "email": "none",
+    "languages": [],
+    "actions": {}
+}
